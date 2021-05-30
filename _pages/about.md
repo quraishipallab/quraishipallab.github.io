@@ -11,6 +11,8 @@ Masudul Quraishi is a PhD Student at Computer Engineering Department at Arizona 
 
 Recent News
 ======
+**March 2021**: Journal *A Survey of System Architectures and Techniques for FPGA Virtualization* is published on IEEE TPDS
+
 **January 2019**: Masudul joins Non-volatile Memory Solutions Group (NSG) at Intel Corporation as a System-On-Chip (SoC) Design Engineering Intern.
 
 **October 2018**: Masudul's paper *Co-simulation of Hardware RTL and Software System using FMI* is published at Winter Simulation Conference (WSC), 2018.
